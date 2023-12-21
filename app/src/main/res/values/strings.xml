@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="search_here">Search Here</string>
+    <string name="default_date_time">19-12-23 05:00</string>
+    <string name="min_temp">Min Temp 27.5*</string>
+    <string name="max_temp">Max Temp 25.7*</string>
+    <string name="main_temp">27.3*</string>
+    <string name="weather_type">Sunny</string>
+    <string name="feels_like">Feels like 30.3*</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="Sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="Temperature">F</string>
+    <string name="ground">Ground</string>
+    <string name="sea">Sea</string>
+    <string name="country">Country</string>
+    <string name="default_pressure">1010</string>
+    <string name="default_humidity">83%</string>
+    <string name="default_wind_speed">1.25m/s</string>
+    <string name="default_sunrise">05:25:43</string>
+    <string name="default_sunset">18:20:35</string>
+    <string name="default_temperature">80*</string>
+    <string name="default_ground">990</string>
+    <string name="default_sea">1090</string>
+    <string name="default_country">IN</string>
+    <string name="weather_img">weather img</string>
+    <string name="pressure_img">pressure img</string>
+    <string name="humidiity_img">humidiity img</string>
+    <string name="speed_img">speed img</string>
+    <string name="sunrise_img">sunrise img</string>
+    <string name="sunset_img">sunset img</string>
+    <string name="temperature_img">Temperature img</string>
+    <string name="ground_img">ground img</string>
+    <string name="country_img">country img</string>
+
+</resources>
